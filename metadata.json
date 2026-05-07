@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Translate Pro",
+  "description": "A high-performance text and speech translation app powered by Google Gemini, featuring a clean Streamlit-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
