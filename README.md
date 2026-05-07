@@ -2,11 +2,14 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
- Multilingual AI Speech App
+
+🎙️ Multilingual AI Speech App
+
  
 🌟 Project Overview
 
 This project is an AI-driven speech application that leverages the power of Google AI Studio and Gemini to provide real-time multilingual translation. It was developed using Vibe Coding—a modern approach that focuses on natural language-driven architecture and rapid prototyping.
+
 
 🛠️ Key Features
 
@@ -18,7 +21,7 @@ Vibe Coding Workflow: Built through iterative prompt engineering and natural lan
 
 🧰 Tech Stack
 
-Model: Google Gemini (via Google AI Studio)
-Language: Python
-Framework: Streamlit (or mention whatever you used, e.g., Flask/FastAPI)
-API: Google Generative AI SDK
+•Model: Google Gemini (via Google AI Studio)
+•Language: Python
+•Framework: Streamlit (or mention whatever you used, e.g., Flask/FastAPI)
+•API: Google Generative AI SDK
